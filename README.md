@@ -1,2 +1,3 @@
 # Primer_Repositorio
-Este es mi primer repositorio en el cual estarán mis disponibles mis practicas
+Este repositorio es propiedad de: López Rojas Jesus Emiliano
+En este repositorio están disponibles mis prcticas de la segunda unidad realizadas en PHP.
