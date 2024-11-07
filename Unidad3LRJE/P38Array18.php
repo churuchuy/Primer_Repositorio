@@ -25,10 +25,17 @@ for($i=0;$i<3;$i++)
 echo "<br>";
 echo "COLUMNAS INVERSAS";
 echo "<br>";
-for($j=0;$j<2;$j++)
-	{ for($i=2;$i<3;$i--)
+for($j=0;$j<3;$j++)
+	{ for($i=2;$i>=0;$i--)
 		{ echo $datos[$i][$j]." "; }
 		echo "<br>";
 	}
-
+echo "<br>";
+echo "FILAS INVERSAS";
+echo "<br>";
+for($j=0;$j<3;$j++)
+	{ for($i=2;$i>=0;$i--)
+		{ echo $datos[$j][$i]." "; }
+		echo "<br>";
+	}
 ?>
